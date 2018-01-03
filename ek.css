@@ -9,7 +9,7 @@ body {
   color: black;
 }
 html {
-  border-style: double;
+  border-style: outset;
   color: #ff00e5;
 }
 .#ff00e5{
